@@ -55,7 +55,7 @@ document.querySelector(".again-btn").addEventListener("click", () => {
   document.querySelector(".score").textContent = score;
   check.disabled = false;
   msg.innerHTML = "Starting..";
-  document.body.style.backgroundColor = "#2d3436";
+  document.body.style.backgroundColor = "#1c0662";
   document.querySelector(".secret-number").textContent = "?";
   document.querySelector(".guess-input").value = "";
 });

@@ -1,5 +1,5 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="photo.png" alt="screenshot" target=_blanked></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="photo.png" alt="screenshot" target=_blanked width=700px height=380px></a>
 </p>
 
 
